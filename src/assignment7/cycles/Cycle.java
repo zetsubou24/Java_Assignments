@@ -1,5 +1,6 @@
 package assignment7.cycles;
 
+//Abstract Cycle class
 public abstract class Cycle {
     private String name;
 

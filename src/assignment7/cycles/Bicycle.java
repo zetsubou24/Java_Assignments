@@ -6,6 +6,7 @@ public class Bicycle extends Cycle {
         setName("bicycle");
     }
 
+    //Bicycle's balance method
     public void balance(){
         System.out.println("Balancing a Bicycle");
     }

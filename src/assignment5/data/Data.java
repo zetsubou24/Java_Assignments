@@ -4,6 +4,7 @@ public class Data {
     private int num;
     private char ch;
 
+    //Printing member variables that will be initialized to default values upon declaration
     public void printVars(){
         System.out.println("num = " + num);
         System.out.println("ch = " + ch);

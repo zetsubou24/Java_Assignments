@@ -1,5 +1,6 @@
 package assignment7.interfaces;
 
+//Class Demo that implements the combined interface and extending the Concrete Class
 public class Demo extends ConcreteClass implements IFourth {
 
     @Override

@@ -6,4 +6,6 @@ public class Tricycle extends Cycle {
         setName("tricycle");
     }
 
+    //Tricycle does not contain balance method
+
 }

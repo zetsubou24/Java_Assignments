@@ -1,5 +1,6 @@
 package assignment7.rodents;
 
+//Abstract class Rodent
 public abstract class Rodent {
 
     public Rodent(){

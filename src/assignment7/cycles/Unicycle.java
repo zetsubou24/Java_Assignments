@@ -6,6 +6,7 @@ public class Unicycle extends Cycle {
         setName("unicycle");
     }
 
+    //Unicycle's balance method
     public void balance(){
         System.out.println("Balancing a Unicycle");
     }
